@@ -543,7 +543,7 @@ msgstr "A partir de este informe, puede tener una visión general de todas las d
 #. module: om_account_asset
 #: model:ir.ui.menu,name:om_account_asset.menu_asset_depreciation_confirmation_wizard
 msgid "Generate Assets Entries"
-msgstr "Generar entradas de activos"
+msgstr "Generar asientos de activos"
 
 #. module: om_account_asset
 #: model_terms:ir.ui.view,arch_db:om_account_asset.view_asset_depreciation_confirmation_wizard
